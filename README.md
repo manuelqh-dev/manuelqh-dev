@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Manuel Quintana Huerta
 
-Ingeniero de Software con experiencia en desarrollo backend, diseño de APIs y gestión de soluciones en el sector bancario. Me apasiona la informática y estoy abierto a seguir aprendiendo y trabajando en distintas áreas y tecnologías.
+Ingeniero de software con experiencia en desarrollo backend, APIs REST y entornos bancarios. Me especializo en diseño y documentación de APIs, testing automatizado y trabajo en equipo ágil. Me interesa la ciberseguridad y la arquitectura de sistemas, y actualmente estoy ampliando mis competencias en cloud (AWS).
 
 ---
 
