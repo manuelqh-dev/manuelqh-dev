@@ -1,28 +1,35 @@
 # 👋 ¡Hola! Soy Manuel Quintana Huerta
 
-Ingeniero de software con experiencia en desarrollo backend, APIs REST y entornos bancarios. Me especializo en diseño y documentación de APIs, testing automatizado y trabajo en equipo ágil. Me interesa la ciberseguridad y la arquitectura de sistemas, y actualmente estoy ampliando mis competencias en cloud (AWS).
+Ingeniero de Software Backend con sólida experiencia en el sector bancario y arquitectura de microservicios Java. Especializado en el desarrollo, pruebas automatizadas (JUnit, Mockito) y diseño técnico de APIs REST. Enfocado en aportar soluciones eficientes, escalables y de alto rendimiento bajo metodologías ágiles en entornos técnicos exigentes.
 
 ---
 
 ## 💼 Experiencia profesional
 
-### 🏦 Banco Santander *(Mayo 2023 – Abril 2025)*  
-**Diseñador de APIs (Equipo Global de APIs)**  
-- Análisis, diseño, publicación y documentación de APIs RESTful  
-- Definición de soluciones funcionales y diseño técnico  
-- Uso de estándares como ISO 20022 y OpenAPI 3.0  
-- Gestión de backlog y revisiones de sprint con Jira
-- Revisión de estándares y patrones globales
-- Uso de herramientas como Swagger, Swagger UI, GitHub, Visual Studio Code  
+### 🏦 Banco Santander *(Mayo 2023 – Mayo 2025)*  
+**Analista técnico y Diseñador de APIs** 
+
+Formé parte del Equipo Global de APIs, actuando como nexo técnico para definir e integrar la arquitectura de servicios globales unificados del banco.
+
+- Análisis técnico y traducción de requisitos: Análisis de requerimientos de negocio junto a equipos internacionales, traduciéndolos en especificaciones técnicas para la arquitectura de APIs globales.
+
+- Dirección técnica y guía al desarrollador: Supervisión y acompañamiento a programadores en la creación de contratos OpenAPI/Swagger, definiendo las estructuras de datos y las buenas prácticas de diseño backend.
+
+- Gestión del ciclo de vida y modelado: Modelado de datos bajo el estándar ISO 20022 y gestión del ciclo de vida completo de las APIs para su publicación en el catálogo global de la entidad
+
+- Gobernanza técnica: Aseguramiento del cumplimiento de patrones de arquitectura, rendimiento y seguridad en las soluciones integradas en el ecosistema de backend.
 
 ### 💻 Capgemini *(Mayo 2021 – Mayo 2023)*  
-**Ingeniero de software backend**  
-- Desarrollo y mantenimiento de microservicios con Java 11 y Spring Boot  
-- Pruebas unitarias e integración con JUnit y Mockito  
-- Testing de APIs con Postman  
-- Consultas SQL y acceso a datos con JPA
-- Diseño de contratos con Apicurio y Swagger
-- Uso de herramientas como GitLab, Jenkins, Maven, SonarQube y Kibana  
+**Ingeniero de Software Backend (Cliente: CaixaBank)**  
+- Desarrollo de microservicios: Mantenimiento, desarrollo y evolución de microservicios escalables utilizando Java 11 y Spring Boot.
+
+- Calidad y pruebas automatizadas: Diseño e implementación de pruebas unitarias y de integración con JUnit y Mockito, asegurando la calidad del código mediante el análisis con SonarQube.
+
+- Gestión y testing de APIs: Pruebas y validación de APIs con Postman, junto con el diseño y modificación de contratos técnicos utilizando Apicurio y Swagger. 
+
+- Persistencia de datos: Interacción, modelado y optimización de bases de datos relacionales mediante consultas SQL y JPA. 
+
+- Integración y monitorización: Control de versiones con Git/GitLab, soporte al flujo de integración continua y monitorización de entornos con Kibana.
 
 ---
 
